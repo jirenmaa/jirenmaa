@@ -1,6 +1,6 @@
 ### Hello There, I'm [<a href="#">jirenmaa</a>]! 
 
-I'm a **random guy** that love to try any programming language, this my **second account**.
+I'm a **random guy** that love to try any programming language, but mainly in python. this my **second account**.
 
 <!--
 **jirenmaa/jirenmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
