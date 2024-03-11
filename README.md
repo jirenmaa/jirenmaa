@@ -6,11 +6,8 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     22 mins         ██████████░░░░░░░░░░░░░░░   40.37 %
-Python       18 mins         ████████░░░░░░░░░░░░░░░░░   31.96 %
-Text         13 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Python   47 mins         ████████████████████████▓   98.11 %
+CSV      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
