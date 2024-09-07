@@ -6,7 +6,8 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 32 mins    █████████████████████████   100.00 %
+Python   4 hrs 56 mins   █████████████████████████   99.98 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
