@@ -6,10 +6,10 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-C#       2 hrs 13 mins   █████████████████████░░░░   83.45 %
-Binary   26 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C#       4 hrs 33 mins   ██████████████████████▓░░   91.15 %
+Binary   26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
