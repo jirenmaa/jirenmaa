@@ -7,7 +7,7 @@ check out my website [here](https://ahmadalwi.com/)
 
 ```txt
 PHP              2 hrs 37 mins   ████████████▒░░░░░░░░░░░░   49.32 %
-TypeScript       2 hrs           █████████▒░░░░░░░░░░░░░░░   37.77 %
+TypeScript       2 hrs           █████████▒░░░░░░░░░░░░░░░   37.76 %
 Bash             21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
 JSON             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
