@@ -6,7 +6,8 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   33 mins         ███████████████████▓░░░░░   78.32 %
+Other    9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
 ```
 
 <!--END_SECTION:waka-->
