@@ -6,11 +6,11 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-Python       8 hrs 47 mins   ██████████████████░░░░░░░   71.53 %
-YAML         1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-Other        48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-PowerShell   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Python       5 hrs 4 mins    ████████████████████▓░░░░   82.95 %
+YAML         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+Other        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Batchfile    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+PowerShell   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
