@@ -6,11 +6,8 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-PHP             3 hrs 23 mins   ███████████████▓░░░░░░░░░   63.16 %
-Python          1 hr 29 mins    ███████░░░░░░░░░░░░░░░░░░   27.78 %
-Other           17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-SQL             11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Apache Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   7 mins          █████████████▒░░░░░░░░░░░   53.16 %
+Other    6 mins          ███████████▓░░░░░░░░░░░░░   46.84 %
 ```
 
 <!--END_SECTION:waka-->
