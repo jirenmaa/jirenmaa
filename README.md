@@ -6,9 +6,9 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-Python   31 hrs 8 mins   ██████████████████████▓░░   90.74 %
-Other    2 hrs 57 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-JSON     13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Python   30 hrs 16 mins  ██████████████████████▒░░   89.72 %
+Other    3 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+JSON     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
