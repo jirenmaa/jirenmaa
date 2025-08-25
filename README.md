@@ -6,9 +6,10 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 39 mins    ██████████████████▒░░░░░░   73.57 %
-Vue.js       35 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python   4 hrs 12 mins   ████████████████▒░░░░░░░░   65.44 %
+Other    1 hr 51 mins    ███████▒░░░░░░░░░░░░░░░░░   28.79 %
+YAML     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
