@@ -17,4 +17,4 @@ JSON         1 hr 33 mins    ▓░░░░░░░░░░░░░░░░
 
 ### My arsenal:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,react,nextjs,svelte,nodejs,django,tailwind,html,css,sass,firebase,mongodb,postgres,mysql,redis,git,github,docker,vscode,figma,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,react,nextjs,nodejs,django,tailwind,postgres,firebase,mongodb,mysql,redis,git,docker,figma,godot)](https://skillicons.dev)
