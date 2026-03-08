@@ -6,10 +6,7 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   10 mins               ████████████░░░░░░░░░░░░░   47.69 %
-Bash         8 mins                █████████▓░░░░░░░░░░░░░░░   38.02 %
-Other        2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-TypeScript   1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
