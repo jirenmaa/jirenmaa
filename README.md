@@ -6,7 +6,9 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js       39 mins               ██████████████████░░░░░░░   72.47 %
+TypeScript   15 mins               ███████░░░░░░░░░░░░░░░░░░   27.49 %
+HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
