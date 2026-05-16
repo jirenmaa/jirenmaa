@@ -6,11 +6,8 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-C#             1 hr 16 mins          ██████████████████████░░░   87.80 %
-INI            9 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-JSON           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Other          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-XML            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+INI   9 mins                ████████████████░░░░░░░░░   64.34 %
+C#    5 mins                █████████░░░░░░░░░░░░░░░░   35.66 %
 ```
 
 <!--END_SECTION:waka-->
