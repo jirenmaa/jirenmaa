@@ -6,8 +6,7 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-INI   9 mins                ████████████████░░░░░░░░░   64.34 %
-C#    5 mins                █████████░░░░░░░░░░░░░░░░   35.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
