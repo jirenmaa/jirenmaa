@@ -6,7 +6,7 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-C#   3 mins                █████████████████████████   100.00 %
+INI   2 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
