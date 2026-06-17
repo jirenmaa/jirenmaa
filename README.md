@@ -6,11 +6,11 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 31 hrs 49 mins        █████████████████▓░░░░░░░   70.03 %
-SQL                        3 hrs 45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-Markdown                   2 hrs 47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Docker                     2 hrs 35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-JSON                       1 hr 53 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+TypeScript                 34 hrs 4 mins         ██████████████████░░░░░░░   72.33 %
+SQL                        2 hrs 45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Docker                     2 hrs 35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Markdown                   2 hrs 25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+JSON                       1 hr 52 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
