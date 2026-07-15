@@ -17,4 +17,4 @@ Bash         29 mins               ▓░░░░░░░░░░░░░░
 
 ### My arsenal:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,react,nextjs,nodejs,django,tailwind,postgres,firebase,mongodb,mysql,redis,git,docker,figma,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,react,nextjs,nodejs,express,fastapi,flask,django,tailwind,postgres,firebase,mongodb,mysql,redis,prisma,git,docker,linux,vercel,figma,godot)](https://skillicons.dev)
