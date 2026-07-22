@@ -6,11 +6,11 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     11 hrs 8 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
-Go                         10 hrs 36 mins        ██████░░░░░░░░░░░░░░░░░░░   24.23 %
-TypeScript                 8 hrs 45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.99 %
-Markdown                   5 hrs 29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Docker                     1 hr 52 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Go                         12 hrs 22 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
+TypeScript                 11 hrs 27 mins        ██████░░░░░░░░░░░░░░░░░░░   24.49 %
+Python                     9 hrs 11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.66 %
+Markdown                   5 hrs 16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Docker                     1 hr 52 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
