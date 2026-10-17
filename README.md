@@ -6,11 +6,11 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-C#           9 hrs 15 mins         ███████▓░░░░░░░░░░░░░░░░░   30.04 %
-Bash         3 hrs 17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Markdown     2 hrs 57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-Other        2 hrs 30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Python       2 hrs 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+C#           7 hrs 4 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
+Python       4 hrs 47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+Bash         3 hrs 16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Markdown     2 hrs 56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Other        2 hrs 17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
 ```
 
 <!--END_SECTION:waka-->
