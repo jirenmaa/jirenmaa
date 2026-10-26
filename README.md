@@ -6,11 +6,11 @@ check out my website [here](https://ahmadalwi.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-Python             18 hrs 41 mins        ████████████▓░░░░░░░░░░░░   50.66 %
-TypeScript         4 hrs 35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Other              3 hrs 36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-Bash               3 hrs 8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Markdown           1 hr 36 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Python             19 hrs 42 mins        ██████████████░░░░░░░░░░░   55.63 %
+TypeScript         3 hrs 35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Other              2 hrs 55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Bash               2 hrs 53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Markdown           1 hr 25 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 ```
 
 <!--END_SECTION:waka-->
